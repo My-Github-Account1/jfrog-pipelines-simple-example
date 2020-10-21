@@ -1,5 +1,5 @@
 resources:
-  - name: myGitRepo
+  - name: My-Github-Account1/jfrog-pipelines-simple-example
     type: GitRepo
     configuration:
       gitProvider: github
